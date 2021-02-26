@@ -23,6 +23,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/micro/cli/v2 v2.1.2
 	github.com/micro/go-micro/v2 v2.9.1
+	github.com/asim/go-micro/v3 v3.5.0
 	github.com/micro/protoc-gen-micro/v2 v2.1.1 // indirect
 	github.com/mitchellh/gox v1.0.1
 	github.com/ogier/pflag v0.0.1 // indirect
