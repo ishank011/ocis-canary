@@ -10,26 +10,20 @@ require (
 	github.com/asim/go-micro/v3 v3.5.1-0.20210217182006-0f0ace1a44a9
 	github.com/cespare/reflex v0.2.0
 	github.com/cs3org/reva v1.6.1-0.20210223065028-53f39499762e
-	github.com/davecgh/go-spew v1.1.1
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-chi/render v1.0.1
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.4.3
+	github.com/google/go-cmp v0.5.5 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/haya14busa/goverage v0.0.0-20180129164344-eec3514a20b5
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/imdario/mergo v0.3.11 // indirect
-	github.com/kr/pty v1.1.8 // indirect
-	github.com/mattn/go-isatty v0.0.12 // indirect
-	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/micro/cli/v2 v2.1.2
-	github.com/micro/go-micro/v2 v2.9.1
-	github.com/micro/protoc-gen-micro/v2 v2.1.1 // indirect
 	github.com/mitchellh/gox v1.0.1
 	github.com/ogier/pflag v0.0.1 // indirect
 	github.com/oklog/run v1.1.0
 	github.com/openzipkin/zipkin-go v0.2.2
-	github.com/owncloud/ocis v1.2.1-0.20210226095754-4ec4dd5f77eb
 	github.com/owncloud/ocis/ocis-pkg v0.0.0-20210226095754-4ec4dd5f77eb
 	github.com/prometheus/client_golang v1.7.1
 	github.com/restic/calens v0.2.0
